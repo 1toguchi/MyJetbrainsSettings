@@ -5,4 +5,7 @@
   <action id="ActivateUnityToolWindow">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="ResetToMySettings">
+    <keyboard-shortcut first-keystroke="ctrl at" />
+  </action>
 </keymap>
