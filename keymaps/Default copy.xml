@@ -2,4 +2,7 @@
   <action id="ActivateUnitTestsToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="ActivateUnityToolWindow">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
 </keymap>
