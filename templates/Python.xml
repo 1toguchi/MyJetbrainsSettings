@@ -1,0 +1,3 @@
+<templateSet group="Python">
+  <template name="todo" value="#todo $END$" toReformat="false" toShortenFQNames="true" />
+</templateSet>
